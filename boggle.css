@@ -108,21 +108,20 @@ header {
 
 
 table, th, td {
-        border:1px solid purple;
         width: 350px;
         height: 60px;
         margin: auto;
         justify-content: center;
         -ms-transform: translateY(-50%);
-        transform: translateY(10%);
-        
+        transform: translateY(10%);       
       }
 
 
 th {
-        font-size: 40px;
+    font-size: 40px;
+    border: 1px solid purple;
+    border-radius: 15px;
       }
-
 
 
 
